@@ -14,9 +14,8 @@ This is a Next.js application that demonstrates a complete authentication workfl
 
 ## Installation
 
-### Clone the Repository:
+### Clone this Repository:
 
-    git clone https://github.com/code-with-divyanshu/next_auth.git
 
 ## Navigate to the Project Directory:
 
@@ -34,11 +33,7 @@ This is a Next.js application that demonstrates a complete authentication workfl
 
 ### Create a .env file in the root directory and add your environment variables.
 
-Example:
 
-#### Check this sample env file
-
-    https://github.com/code-with-divyanshu/next_auth/blob/075760bceffcd9a6ce2b1bb6b06e0f0ae801915c/.env.sample
 
 ### Run Website
 
